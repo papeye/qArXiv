@@ -9,5 +9,8 @@ Running instructions:
    
     Windows: .venv/Scripts/Activate.ps1
 
-2. Install requirements:
+3. Install requirements:
     pip install -r requirements.txt
+
+4. Run:
+   python -m main.py

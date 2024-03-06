@@ -6,6 +6,7 @@ Running instructions:
 
 2. Activate venv:
     MacOs: source .venv/bin/activate
+    Windows: .venv/Scripts/Activate.ps1
 
 2. Install requirements:
     pip install -r requirements.txt
